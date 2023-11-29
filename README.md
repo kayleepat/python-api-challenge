@@ -1,2 +1,7 @@
 # python-api-challenge
-module 6
+
+## Tools Used
+- Geoapify API
+- OpenWeather API
+- Pandas
+- hvplot
